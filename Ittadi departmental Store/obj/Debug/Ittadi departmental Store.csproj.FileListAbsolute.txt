@@ -1,0 +1,47 @@
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\Ittadi departmental Store.exe.config
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\Ittadi departmental Store.exe
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\Ittadi departmental Store.pdb
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi departmental Store.csprojResolveAssemblyReference.cache
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.AddNewProduct.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Home.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Form1.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Properties.Resources.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Purchase_Confirmation.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Purchase.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Update.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Whole_Sell_Log_in_Form.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi departmental Store.csproj.GenerateResource.Cache
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi departmental Store.exe
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi departmental Store.pdb
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Delete.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.InStock.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Customer.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\PasswordDatabase.mdf
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\PasswordDatabase_log.ldf
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.EmployeeLogIn.resources
+G:\Database\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.EmployeeResister.resources
+E:\3rd Year Term-i\Database Project\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\Ittadi departmental Store.exe.config
+E:\3rd Year Term-i\Database Project\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi departmental Store.exe
+E:\3rd Year Term-i\Database Project\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi departmental Store.pdb
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\Ittadi departmental Store.exe.config
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi departmental Store.exe
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi departmental Store.pdb
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\PasswordDatabase.mdf
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\PasswordDatabase_log.ldf
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\Ittadi departmental Store.exe
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\bin\Debug\Ittadi departmental Store.pdb
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi departmental Store.csprojResolveAssemblyReference.cache
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.AddNewProduct.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Customer.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Delete.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.EmployeeLogIn.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.EmployeeResister.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Home.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.InStock.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Form1.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Properties.Resources.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Purchase_Confirmation.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Purchase.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Update.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi_departmental_Store.Whole_Sell_Log_in_Form.resources
+E:\3rd Year Term-i\Database_Projects\Ittadi departmental Store\Ittadi departmental Store\obj\Debug\Ittadi departmental Store.csproj.GenerateResource.Cache
